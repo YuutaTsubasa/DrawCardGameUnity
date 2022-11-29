@@ -5,7 +5,7 @@
 一個在[實況直播](https://yutaii.run/v/319)中製作出來的翻牌遊戲。
 
 ## 遊玩方式
-(待補)
+進入[網頁](https://yuuta-tsubasa.studio/DrawCardGameUnity)即可遊玩。
 
 ## 專案說明
 
